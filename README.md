@@ -2,6 +2,8 @@
 
 ## Folder structure
 
+```plaintext
 boilerplate/
 |-- layouts/
-| |-- masonry-grid
+|   |-- masonry-grid
+```
