@@ -1,4 +1,4 @@
-<img src="./assets/screenshot.png" alt="Screenshot">
+<img src="/assets/screenshot.png" alt="Screenshot">
 
 # Masonry Grid
 
